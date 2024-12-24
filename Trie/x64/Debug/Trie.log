@@ -1,0 +1,30 @@
+﻿  Dictionary.cpp
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\Dictionary.cpp(135,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\Dictionary.cpp(139,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\Main.cpp(19,105): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\Main.cpp(19,105): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\Main.cpp(167,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  UI.cpp
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(61,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(62,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(68,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(68,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(72,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(72,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(75,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(75,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(85,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(85,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(89,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(89,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(128,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(132,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(133,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(136,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(138,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Trie\UI.cpp(139,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Trie.vcxproj -> E:\Code\Vs\repos\MyStupidCode\AutoSuggest\AutoSuggest\x64\Debug\Trie.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

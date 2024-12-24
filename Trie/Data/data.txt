@@ -1,0 +1,2397 @@
+acknowledge,cong nhan,thua nhan
+active,hoat dong
+actually,thuc te
+although,mac du
+ally,dong minh
+additional,them vao,phu
+admire,nguong mo
+adopt,nhan nuoi
+advertising,quang cao,su quang ba
+anger,con gian
+announce,cong bo
+anything,bat ky dieu gi
+afternoon,buoi chieu
+agree,dong y
+aide,phu ta
+aircraft,may bay
+appearance,ngoai hinh,dien mao
+appointment,lich hen,su bo nhiem
+approve,chap thuan
+argument,lap luan
+arrangement,su sap xep,su thu xep
+as,nhu,vi,de
+assault,tan cong
+associate,ket hop,lien ket
+atmosphere,khi quyen,bau khong khi
+attract,hap dan
+authority,co quan quyen luc
+aware,nhan thuc
+biological,thuoc ve sinh hoc,sinh hoc
+basis,nen tang
+background,phong nen,hoan canh
+balance,can bang
+barrel,thung
+bunch,bo,chum
+buyer,nguoi mua
+be,la
+beyond,ngoai ra
+being,sinh vat
+beautiful,dep,tham my
+beer,bia
+belt,day dai
+beside,ben canh
+blade,luoi dao
+blood,mau
+body,co the
+bowl,to
+boom,tieng no
+break,pha vo
+brief,ngan gon
+brother,anh/chi/em trai
+civil,civil
+case,vu kien
+cake,banh
+cause,nguyen nhan
+campaign,chien dich
+capacity,kha nang chua
+care,cham soc
+cultural,van hoa
+culture,van hoa
+curious,to mo
+current,hien tai
+currently,hien tai,luc nay
+curriculum,giao trinh,chuong trinh hoc
+customer,khach hang
+central,trung tam
+certainly,chac chan,khong nghi ngo
+chinese,thuoc ve Trung Quoc
+chamber,phong
+character,tinh cach,nhan vat
+cheap,re
+chest,nguc
+christmas,Le Giang Sinh
+climb,leo len
+classroom,lop hoc,phong hoc
+clothing,quan ao
+coal,than
+cognitive,thuoc ve nhan thuc
+collection,su suu tam,bo suu tap
+council,hoi dong
+counter,quay
+country,quoc gia
+courage,long dung cam
+court,toa an
+combine,ket hop
+communicate,trao doi,lien lac
+comment,nhan xet
+comparison,su so sanh,su doi chieu
+complaint,khieu nai,loi phan nan
+compose,soan thao
+consumption,su tieu thu,tieu dung
+consensus,su dong thuan
+consideration,xem xet,su can nhac
+constitutional,thuoc ve hien phap
+concentration,su tap trung,nong do
+conclude,ket luan
+convince,thuyet phuc
+confidence,tu tin,long tin
+congress,Quoc hoi
+content,noi dung
+contract,hop dong
+controversy,su tranh cai,mau thuan
+cope,duong dau
+corporation,cong ty,tap doan
+cover,bao ve
+coverage,pham vi bao hiem
+crime,toi pham
+criminal,toi pham
+criteria,tieu chi
+criticism,su chi trich,su phe phan
+criticize,chi trich,noi xau
+critical,quan trong
+crash,vu tai nan
+crack,vet nut
+craft,nghe thu cong
+crazy,dien
+crucial,cot yeu
+cream,kem
+creation,su sang tao
+creative,sang tao
+creature,sinh vat
+crew,doi ngu
+crop,mua vu
+cross,di qua
+crowd,dam dong
+cycle,chu trinh
+dialogue,doi thoai
+dimension,kich thuoc
+die,chet
+diet,che do an uong
+dining,an uong
+dinner,bua toi
+differ,khac biet
+difference,su khac biet,su phan biet
+different,khac biet
+differently,mot cach khac,cach khac
+difficult,kho khan
+difficulty,kho khan,van de
+dig,dao
+digital,so
+direct,truc tiep
+direction,huong,dan dat hoac chi duong
+directly,truc tiep
+director,giam doc
+dirt,bun
+dirty,ban
+disability,khuyet tat,su tan tat
+disagree,khong dong y
+disappear,bien mat,khong con ton tai
+disaster,tham hoa
+discipline,ky luat,mon hoc
+discourse,cau chuyen,bai thuyet trinh
+discover,phat hien
+discovery,su phat hien
+discrimination,phan biet doi xu,su phan biet
+discuss,thao luan
+discussion,cuoc thao luan,su ban luan
+dismiss,sa thai
+disease,benh
+display,trinh bay
+dispute,tranh chap
+dish,dia
+disorder,roi loan
+distinct,ro rang
+distinction,su phan biet,su khac biet
+distinguish,phan biet,nhan dien
+distance,khoang cach
+distant,xa
+distribute,phan phoi,cung cap
+distribution,su phan phoi,phan phat
+district,khu vuc
+diverse,da dang
+diversity,su da dang,su phong phu
+divide,chia se
+division,su phan chia
+divorce,ly hon
+daily,hang ngay
+daughter,con gai
+damage,thiet hai
+dance,mua
+danger,nguy hiem
+dangerous,nguy hiem,co the gay hai
+dare,dam
+dark,toi
+darkness,bong toi
+data,du lieu
+date,ngay thang
+due,den han
+during,trong suot
+dust,bui
+duty,nhiem vu
+death,cai chet
+deal,thoa thuan
+dealer,nguoi ban
+dead,chet
+dear,than thiet
+debate,tranh luan
+debt,no
+decide,quyet dinh
+decision,quyet dinh
+decade,thap ky
+deck,boong tau
+decline,giam
+declare,tuyen bo
+decrease,giam
+demand,yeu cau
+democracy,dan chu
+democrat,Dang vien Dang Dan chu
+democratic,dan chu,thuoc ve dan chu
+demonstrate,chung minh,the hien
+demonstration,cuoc bieu tinh,su trinh dien
+deep,sau
+deeply,sau sac
+deer,con huou
+defeat,danh bai
+defend,bao ve
+defendant,bi cao,nguoi bi buoc toi trong mot phien toa
+defense,phong thu
+defensive,phong thu,bao ve
+deficit,tham hut
+define,dinh nghia
+definitely,chac chan,hoan toan
+definition,dinh nghia,su xac dinh
+degree,muc do
+deliver,giao hang
+delivery,su giao hang
+delay,tri hoan
+deny,tu choi
+depict,mieu ta
+department,bo phan,khoa
+deputy,pho
+depend,phu thuoc
+dependent,tuy thuoc
+depending,tuy thuoc
+depression,tram cam,khung hoang
+depth,sau
+derive,bat nguon
+desk,ban lam viec
+describe,mo ta
+description,mo ta,su dien ta
+desert,sa mac
+deserve,xung dang
+design,thiet ke
+designer,nha thiet ke
+desire,mong muon
+desperate,tuyet vong
+despite,mac du
+destroy,huy diet
+destruction,su tan pha,su huy diet
+detail,chi tiet
+detailed,chi tiet
+detect,phat hien
+determine,xac dinh,quyet dinh
+develop,phat trien
+developing,dang phat trien,dang tien hoa
+development,su phat trien,su tien bo
+device,thiet bi
+devote,cong hien
+do,lam
+doctor,bac si
+document,tai lieu
+down,xuong
+downtown,trung tam thanh pho
+door,cua
+dog,cho
+doubt,nghi ngo
+double,gap doi
+domestic,noi dia
+dominant,chiem uu the
+dominate,chi phoi
+dozen,muoi hai
+dry,kho
+drive,lai xe
+driver,tai xe
+drink,uong
+draft,ban nhap
+draw,ve
+drawing,buc ve
+drag,keo
+drama,kich
+dramatic,kich tinh
+dramatically,mot cach manh me,mot cach dang ke
+drug,thuoc
+dream,giac mo
+dress,vay,mac
+drop,roi
+embrace,om
+emerge,noi len
+emergency,tinh huong khan
+emission,su phat thai
+emotion,cam xuc
+emotional,thuoc cam xuc
+emphasis,su nhan manh
+emphasize,noi bat
+empty,trong rong
+employ,tuyen dung
+employment,viec lam,nghe nghiep
+employee,nhan vien
+employer,nguoi su dung lao dong
+e-mail,thu dien tu
+eight,tam
+either,mot trong hai
+ease,giam bot
+easy,de dang
+easily,de dang
+east,dong
+eastern,phia Dong
+each,moi
+eager,hao huc
+ear,tai
+earth,trai dat
+early,som
+earn,kiem duoc
+earnings,thu nhap
+eat,an
+economy,kinh te
+economist,nha kinh te
+economic,kinh te
+economics,kinh te
+elderly,cao tuoi
+elect,bau chon
+election,bau cu
+electric,dien
+electricity,dien,nang luong dien
+electronic,dien tu,thuoc ve dien tu
+element,thanh phan
+elementary,co ban,so cap
+eliminate,loai bo
+elite,tinh tuy
+else,khac
+elsewhere,o noi khac,o cho khac
+edge,mep
+edition,phien ban
+editor,bien tap vien
+educate,giao duc
+education,giao duc
+educational,thuoc ve giao duc
+educator,nha giao duc
+effect,hieu ung
+effective,hieu qua
+effectively,mot cach hieu qua,thuc su
+efficiency,hieu qua,do hieu suat
+efficient,hieu qua
+effort,no luc
+egg,trung
+enable,cho phep
+encounter,gap phai,doi mat
+encourage,khuyen khich,dong vien
+end,ket thuc
+enemy,ke thu
+energy,nang luong
+enforcement,su thi hanh,ap dung
+engine,dong co
+engineer,ky su
+engineering,ky thuat,cong nghe
+engage,ham gia
+enhance,cai thien
+enjoy,thuong thuc
+enormous,to lon
+enough,du
+ensure,dam bao
+enter,vao
+enterprise,doanh nghiep,cong ty
+entertainment,su giai tri,nganh giai tri
+entire,toan bo
+entirely,hoan toan
+entry,thu muc
+entrance,cong vao
+environment,moi truong,hoan canh
+environmental,thuoc ve moi truong
+episode,tap phim
+equipment,thiet bi,dung cu
+equal,bang nhau
+equally,bang nhau
+era,ky nguyen
+error,loi
+essay,bai luan
+essential,can thiet,rat quan trong
+essentially,thuc chat,ve co ban
+escape,tron thoat
+especially,dac biet,la dac biet
+estimate,uoc tinh
+establish,thiet lap,dat nen tang cho
+establishment,co so,su thanh lap
+estate,tai san
+etc,van van
+ethics,dao duc
+ethnic,sac toc
+european,thuoc ve Chau Au
+evidence,bang chung
+evaluate,danh gia
+evaluation,danh gia,su dinh gia
+even,tham chi
+evening,buoi toi
+event,su kien
+eventually,cuoi cung,rot cuoc
+ever,bao gio
+every,moi
+everybody,moi nguoi,tat ca moi nguoi
+everything,moi thu,tat ca moi thu
+everyday,hang ngay
+everywhere,moi noi,tat ca noi
+everyone,moi nguoi
+evolution,su tien hoa
+evolve,tien hoa
+exist,ton tai
+existence,su ton tai
+existing,co san
+exact,dung
+exactly,hoan toan
+examination,cuoc kiem tra,su kiem tra
+examine,xem xet
+example,vi du
+exceed,vuot qua
+excellent,tuyet voi,qua tot
+except,ngoai tru
+exception,ngoai le
+exchange,su trao doi
+exciting,hap dan
+executive,quan tri
+exercise,bai tap
+expand,mo rong
+expansion,su mo rong
+expect,mong doi
+expectation,mong doi,ky vong
+expense,chi phi
+expensive,dat do
+experiment,thi nghiem,trai nghiem
+experience,kinh nghiem,su trai nghiem
+explain,giai thich
+explanation,su giai thich,ly do
+explode,phat no
+explore,kham pha
+explosion,vu no
+exposure,su tiep xuc
+expose,lo ra
+express,bieu dat
+expression,bieu cam,cach dien dat
+exhibit,trung bay
+exhibition,trien lam,su trung bay
+extent,muc do
+extend,mo rong
+extension,su mo rong
+extensive,rong rai
+external,ngoai vi
+extra,them vao
+extraordinary,phi thuong,ngoai le
+extreme,cuc doan
+extremely,cuc ky
+eye,mat
+firm,kien dinh
+fire,lua
+first,thu nhat
+fiber,soi
+fiction,van hoc hu cau
+field,canh dong
+finish,hoan thanh
+final,cuoi cung
+finally,cuoi cung
+finance,tai chinh
+financial,tai chinh
+find,tim thay
+finding,phat hien
+fine,tot
+finger,ngon tay
+fifteen,muoi lam
+fifth,thu nam
+fifty,nam muoi
+fight,danh nhau
+fighter,nguoi chien dau
+fighting,danh nhau
+figure,con so
+film,phim
+file,tep
+fill,lam day
+fish,ca
+fishing,cau ca
+fit,vua van
+fitness,su khoe manh
+five,nam
+fix,sua chua
+far,xa
+farm,Trang trai
+farmer,nong dan
+fabric,vai
+faculty,khoa
+face,mat
+facility,co so vat chat
+fact,su that
+factor,yeu to
+factory,nha may
+fall,roi
+false,sai
+fade,phai mo
+faith,tin nguong
+fail,that bai
+failure,that bai
+fair,that tha
+fairly,cong bang
+family,gia dinh
+familiar,quen thuoc
+famous,noi tieng
+fan,quat,nguoi ham mo
+fantasy,ao tuong
+fashion,mot
+fat,beo
+fate,so menh
+father,cha
+fault,loi
+favor,ung ho
+favorite,yeu thich
+fuel,nhien lieu
+future,tuong lai
+full,day
+fully,toan bo
+fun,vui ve
+function,chuc nang
+fund,quy
+funding,tai tro
+fundamental,co ban,nen tang
+funeral,tang le
+funny,hai huoc
+furniture,do dac trong nha
+furthermore,hon nua,ngoai ra
+fear,so hai
+feature,tinh nang
+fellow,dong nghiep
+federal,lien bang
+female,nu
+fee,phi
+feel,cam thay
+feeling,cam giac
+feed,cho an
+fence,hang rao
+few,mot vai
+fewer,it hon
+fly,bay
+flight,chuyen bay
+flag,co
+flame,lua
+flat,bang phang
+flavor,huong vi
+flee,chay tron
+flesh,thit
+float,noi
+flow,luu thong
+flower,hoa
+floor,san nha
+focus,tap trung
+folk,dan gian
+follow,theo doi
+following,tieo theo
+foot,ban chan
+football,bong da
+food,thuc an
+for,danh cho
+force,luc luong
+form,hinh thuc
+formation,su hinh thanh
+formal,chinh thuc
+formula,cong thuc
+former,cuu
+foreign,nuoc ngoai
+forest,rung
+forever,mai mai
+forward,tien ve phia truoc
+forget,quen
+forth,tien ve phia truoc
+fortune,may man
+found,tim thay
+foundation,nen tang,co so
+founder,nguoi sang lap
+four,bon
+fourth,thu tu
+friend,ban be
+friendly,than thien
+friendship,quan he ban be,tinh ban
+frame,khung
+framework,khuon kho
+fruit,hoa qua
+frustration,su that vong,tuc gian
+free,mien phi
+freedom,tu do
+freeze,dong bang
+french,Phap
+frequency,tan suat
+frequent,thuong xuyen
+frequently,thuong xuyen,lap di lap lai
+fresh,tuoi
+from,tu
+front,phia truoc
+giant,khong lo
+give,cho
+given,duoc cho
+gift,qua tang
+gifted,tai nang
+girl,co gai
+girlfriend,ban gai,co ban gai
+gain,loi nhuan
+gate,cong
+gather,tu tap
+galaxy,thien ha
+gallery,phong trien lam
+game,tro choi
+gang,bang nhom
+gap,khoang cach
+garage,gara
+garlic,toi
+garden,vuon
+gas,khi gas
+gay,dong tinh
+gaze,nhin cham cham
+guy,chang trai
+guilty,co toi
+guide,huong dan
+guideline,huong dan
+guarantee,dam bao
+guard,bao ve
+guess,doan
+guest,khach
+gun,sung
+gear,do dung
+gentleman,quy ong
+gently,nhe nhang
+gender,gioi tinh
+gene,gen
+generate,phat sinh
+generation,the he,nhom the he
+general,chung
+generally,noi chung
+genetic,di truyen
+german,Duc
+gesture,cu chi
+get,lay
+ghost,ma
+glad,vui mung
+glance,liec nhin
+glass,kinh
+global,toan cau
+glove,gang tay
+go,di
+goal,muc tieu
+gold,vang
+golden,vang
+golf,gon
+god,Chua
+good,tot
+government,chinh phu,nha nuoc
+governor,thong doc
+grab,nam bat
+graduate,tot nghiep
+gradually,dan dan
+grade,hang
+gray,xam
+grain,hat
+grave,mo ma
+grant,cap cho
+grand,hoanh trang
+grandfather,ong noi,ong ngoai
+grandmother,ba noi,ba ngoai
+grass,co
+great,tuyet voi
+greatest,tuyet voi nhat
+green,xanh la cay
+grocery,cua hang tap hoa
+ground,mat dat
+group,nhom
+grow,tang truong
+growing,dang phat trien
+growth,su phat trien
+hypothesis,gia thuyet,de xuat
+hi,chao
+hit,danh
+hill,doi
+hide,an
+high,cao
+highly,cao
+highlight,diem noi bat
+highway,duong cao toc
+him,anh ay
+himself,ban than anh ay
+hip,hong
+hire,thue
+his,cua anh ay
+history,lich su
+historian,nha su hoc
+historic,thuoc lich su
+historical,thuoc lich su,co tinh lich su
+hard,kho khan
+hardly,kho khan
+habit,thoi quen
+habitat,moi truong song
+hair,toc
+hat,mu
+hate,ghet
+half,mot nua
+hall,dai sanh
+have,co
+hand,tay
+handful,mot nam
+handle,xu ly
+hang,treo
+happen,xay ra
+happy,vui ve
+huge,to lon
+human,con nguoi
+humor,hai huoc
+hunter,tho san
+hunting,san ban
+hundred,tram
+hungry,doi
+hurt,lam ton thuong
+husband,chong
+he,anh ay
+hey,chao
+height,chieu cao
+heat,nhiet
+health,suc khoe
+healthy,khoe manh
+head,dau
+headline,tieu de
+headquarters,tru so,dai ban doanh
+hear,nghe
+hearing,phien toa
+heart,trai tim
+heaven,thien duong
+heavy,nang
+heavily,manh me
+heel,got chan
+helicopter,may bay truc thang,phuong tien bay
+hell,dia nguc
+hello,hello
+help,giup do
+helpful,huu ich
+her,cua co ay
+here,o day
+heritage,di san
+hero,anh hung
+herself,ban than co ay
+hot,nong
+hotel,khach san
+hold,cam
+hole,lo
+holy,thanh
+holiday,ky nghi
+hour,gio
+house,ngoi nha
+household,ho gia dinh
+housing,nha o
+home,nha
+homeless,vo gia cu
+honest,trung thuc
+honey,mat ong
+honor,danh du
+hope,hy vong
+horizon,chan troi
+horror,kinh di
+horse,ngua
+hospital,benh vien
+host,nguoi dan chuong trinh
+how,nhu the nao
+however,tuy nhien
+i,toi
+ice,da
+ill,om
+illustrate,minh hoa,dien giai
+illegal,illegally,pham phap
+illness,benh tat
+idea,y tuong
+ideal,ly tuong
+identify,xac dinh
+identification,su nhan dang,chung minh thu
+identity,dinh danh
+in,trong
+incentive,dong luc,khuyen khich
+incident,su co
+include,bao gom
+including,bao gom
+income,thu nhap
+incorporate,ket hop,hop nhat
+increase,tang
+increased,tang,gia tang
+increasing,gia tang,dang tang
+increasingly,ngay cang,tang len
+incredible,kho tin,tuyet voi
+industry,cong nghiep
+industrial,cong nghiep
+indeed,thuc su
+index,chi muc
+independence,doc lap,tu chu
+independent,doc lap,tu chu
+indian,An Do
+indicate,chi ra
+indication,su chi ra,dau hieu
+individual,ca nhan,rieng biet
+inner,noi bo
+innocent,vo toi
+infant,tre so sinh
+infection,nhiem trung
+inflation,lam phat
+influence,anh huong
+inform,thong bao
+information,thong tin,su hieu biet
+ingredient,thanh phan,nguyen lieu
+inquiry,cuoc dieu tra
+initiative,sang kien,buoc di dau tien
+initial,ban dau
+initially,ban dau
+injury,chan thuong
+inside,ben trong
+insight,su thau hieu
+insist,khang khang
+inspire,truyen cam hung
+institution,vien,co quan
+institutional,thuoc ve the che,co quan
+install,cai dat
+instance,truong hop
+instead,thay vi
+instruction,huong dan,loi chi dan
+instructor,nguoi huong dan,giao vien
+instrument,cong cu,dung cu
+insurance,bao hiem
+intellectual,thuoc ve tri tue,tinh than
+intelligence,tri thong minh,kha nang nhan thuc
+intention,y dinh
+intend,du dinh
+intense,manh me
+intensity,cuong do
+interaction,su tuong tac,su giao tiep
+interest,so thich
+interested,quan tam,thich thu
+interesting,thu vi,hap dan
+intervention,su can thiep,su xen vao
+interview,phong van
+international,quoc te,lien quoc gia
+internal,noi bo
+internet,Internet
+interpret,giai thich
+interpretation,giai thich,dien giai
+into,vao
+introduce,gioi thieu
+introduction,su gioi thieu,loi gioi thieu
+invite,moi
+invasion,su xam luoc
+invest,dau tu
+investigate,dieu tra,nghien cuu
+investigation,su dieu tra,khao sat
+investigator,nha dieu tra,nguoi dieu tra
+investment,su dau tu,von dau tu
+investor,nha dau tu
+involve,lien quan
+involved,lien quan
+involvement,su tham gia,su lien quan
+if,neu
+ignore,phot lo
+image,hinh anh
+imagination,tuong tuong,su sang tao
+imagine,tuong tuong
+immediate,ngay lap tuc
+immediately,ngay lap tuc,lap tuc
+immigrant,nguoi nhap cu
+immigration,su di cu,di dan
+impact,tac dong
+implement,thuc hien,thi hanh
+imply,ngu y
+implication,he qua,su lien quan
+importance,tam quan trong,y nghia
+important,quan trong
+impose,ap dat
+impossible,khong the,khong kha thi
+impress,an tuong
+impression,an tuong,su cam nhan
+impressive,an tuong,day an tuong
+improve,cai thien
+improvement,su cai thien,su tien bo
+irish,Nguoi Ireland
+iraqi,nguoi Iraq
+iron,sat
+island,hon dao
+issue,van de
+it,no
+item,muc
+its,cua no
+itself,chinh no
+jacket,ao khoac
+jail,tu
+japanese,tieng Nhat
+judgment,phan quyet
+judge,tham phan
+juice,nuoc trai cay
+jump,nhay
+junior,cap duoi
+jury,boi tham doan
+just,just
+justice,cong ly
+justify,bao chua
+jet,may bay phan luc
+jew,nguoi Do Thai
+jewish,Do Thai
+job,cong viec
+joy,niem vui
+join,tham gia
+joint,cong tac
+joke,dua
+journal,tap chi
+journalist,nha bao,phong vien
+journey,hanh trinh
+keep,giu
+key,chia khoa
+kiss,hon
+kick,da
+kitchen,bep
+kill,giet
+killer,ke giet nguoi
+killing,su giet nguoi
+kid,dua tre
+kind,tot bung
+king,nha vua
+knee,dau goi
+knife,dao
+knock,go
+know,biet
+knowledge,kien thuc
+liberal,tu do
+library,thu vien
+like,thich
+likely,co kha nang
+license,giay phep
+limit,gioi han
+limitation,su han che,su gioi han
+limited,han che
+lie,noi doi
+line,dong
+link,lien ket
+life,cuoc song
+lifestyle,loi song
+lifetime,ca doi
+lift,c lifts
+light,anh sang
+lip,moi
+list,danh sach
+listen,lang nghe
+literature,van hoc,tai lieu
+literally,theo nghia den
+literary,thuoc van hoc
+little,it
+live,song
+living,song
+large,lon
+largely,phan lon
+lab,phong thi nghiem
+label,nhan
+labor,lao dong
+laboratory,phong thi nghiem,xuong thi nghiem
+last,cai cuoi
+lake,ho
+lack,thieu
+lady,quy co
+land,dat
+landscape,canh quan
+language,ngon ngu
+lap,dui
+late,muon
+later,sau nay
+latin,Latinh
+latter,cai sau
+laugh,cuoi
+launch,khoi dong
+law,luat
+lawn,bai co
+lawsuit,kien cao
+lawyer,luat su
+lay,dat
+layer,lop
+luck,may man
+lucky,may man
+lunch,bua trua
+lung,phoi
+leather,da
+lead,dan
+leader,lanh dao
+leadership,su lanh dao,vai tro lanh dao
+leading,dan dau
+leave,roi di
+lean,nghieng
+leaf,la
+league,giai dau
+learn,hoc
+learning,hoc tap
+least,it nhat
+level,cap do
+length,chieu dai
+left,trai
+leg,chan
+legislation,lap phap,phap luat
+legitimate,hop phap,chinh dang
+legacy,di san
+legal,hop phap
+legend,huyen thoai
+lemon,chanh
+less,it hon
+lesson,bai hoc
+let,cho phep
+letter,thu
+load,tai
+loan,vay muon
+lose,mat
+loss,su mat mat
+lost,mat
+locate,xac dinh vi tri
+location,vi tri
+local,dia phuong
+lock,khoa
+love,yeu
+lovely,de thuong
+lover,nguoi yeu
+long,dai
+long-term,dai han
+loose,long
+look,nhin
+lot,nhieu
+lots,nhieu
+loud,on ao
+low,thap
+lower,thap hon
+myself,ban than toi
+mystery,an so
+myth,huyen thoai
+military,quan doi
+milk,sua
+million,million
+middle,giua
+might,co the
+mind,tam tri
+minute,phut
+mine,cua toi
+minister,thu tuong
+minor,thieu so
+minority,thieu so
+miracle,phep mau
+mirror,guong
+miss,nho
+missile,dan dao
+mission,su menh
+mistake,sai lam
+mix,tron
+mixture,hon hop
+make,lam
+maker,nguoi che tao
+makeup,trang diem
+machine,thiet bi
+male,nam
+mall,trung tam mua sam
+mad,dien
+magazine,tap chi
+mail,thu
+main,chinh
+maintain,duy tri
+maintenance,su duy tri,bao tri
+mainly,chu yeu
+major,chinh
+majority,da so
+man,dan ong
+many,nhieu
+manage,quan ly
+management,quan ly,su dieu hanh
+manager,quan ly
+manner,cach thuc
+manufacturer,nha san xuat,cong ty san xuat
+manufacturing,san xuat,cong nghiep che tao
+map,ban do
+margin,bien do
+mark,danh dau
+market,thi truong
+marketing,tiep thi
+marry,ket hon
+marriage,hon nhan
+married,ket hon
+mass,koi luong
+massive,to lon
+mask,khau trang
+master,bac thay
+match,tran dau
+material,vat lieu
+math,toan hoc
+matter,van de
+may,co the
+maybe,co the
+mayor,thi truong
+muscle,co bap
+museum,bao tang
+music,am nhac
+musician,nhac si
+musical,thuoc am nhac
+must,phai
+muslim,Hoi giao
+much,nhieu
+mutual,tuong ho
+multiple,nhieu
+murder,giet nguoi
+mm-hmm,vang
+meat,thit
+meal,bua an
+mean,co nghia
+meaning,nghia
+meanwhile,trong khi do
+measure,do luong
+measurement,su do luong,ket qua do
+mess,lon xon
+message,thong diep
+mechanism,co che
+media,phuong tien truyen thong
+medicine,y hoc
+medication,thuoc men
+medical,y te
+medium,phuong tien
+member,thanh vien
+membership,tu cach thanh vien,su tham gia
+memory,tri nho
+meet,gap
+meeting,cuoc hop
+mention,de cap
+mental,tinh than
+menu,thuc don
+mere,chi la
+merely,chi
+metal,kim loai
+meter,cai thuoc
+method,phuong phap
+mother,me
+motion,chuyen dong
+motivation,dong luc,su thuc day
+motor,dong co
+mode,phuong thuc
+model,mau
+moderate,on hoa
+modern,hien dai
+modest,khiem ton
+mount,leo len
+mountain,nui
+mouse,chuot
+mouth,mom
+mom,me
+moment,khoanh khac
+money,tien
+monitor,man hinh
+month,thang
+mood,tam trang
+moon,mat trang
+moral,dao duc
+more,them
+moreover,hon nua
+morning,sang
+mortgage,vay the chap
+most,nhieu nhat
+mostly,chu yeu
+move,di chuyen
+movement,chuyen dong
+movie,phim
+mr,ong
+mrs,ba
+nice,tot
+night,ban dem
+nine,chin
+naked,tran truong
+name,ten
+narrative,cau chuyen,ke lai
+narrow,hep
+nation,quoc gia
+national,quoc gia
+native,ban dia
+natural,tu nhien
+naturally,mot cach tu nhien
+nature,thien nhien
+nuclear,hat nhan
+number,so
+numerous,nhieu
+nurse,y ta
+nut,hat
+neighbor,hang xom
+neighborhood,khu pho,vung xung quanh
+neither,khong cai nao
+near,gan
+nearby,gan day
+nearly,gan nhu
+necessary,can thiet
+necessarily,can thiet,nhat thiet
+neck,co
+need,can
+negative,tieu cuc
+negotiate,dam phan
+negotiation,su thuong luong,dam phan
+nerve,dung khi
+nervous,lung tung
+net,luoi
+network,mang luoi
+never,khong bao gio
+nevertheless,mac du vay,nghia la
+new,moi
+newly,moi day
+news,tin tuc
+newspaper,bao chi
+next,ke tiep
+no,khong
+nor,hoac khong
+normal,binh thuong
+normally,thong thuong
+north,phia bac
+northern,thuoc phuong bac
+nobody,khong ai
+not,khong
+note,ghi chu
+nothing,khong co gi
+notice,chu y
+notion,khai niem
+nod,gat dau
+noise,tieng on
+nomination,su de cu,su gioi thieu
+none,khong ai
+nonetheless,mac du vay,du sao di nua
+nose,mui
+novel,tieu thuyet
+now,bay gio
+nowhere,khong dau
+object,vat the
+objective,muc tieu,khach quan
+obtain,thu duoc
+obligation,nghia vu,bon phan
+observation,su quan sat,nhan xet
+observe,quan sat
+observer,nguoi quan sat
+obvious,ro rang
+obviously,ro rang la
+okay,on
+occasion,dip
+occasionally,thinh thoang,doi khi
+occupy,chiem giu
+occupation,nghe nghiep,cong viec
+occur,xay ra
+ocean,dai duong
+old,gia
+odd,le
+odds,xac suat
+on,tren,ve
+once,mot lan
+one,mot
+ongoing,dang dien ra
+onion,hanh tay
+onto,len tren
+only,chi
+online,truc tuyen
+of,cua
+off,tat
+offense,su xuc pham
+offensive,tan cong,xuc pham
+offer,de nghi
+office,van phong
+officer,can bo
+official,quan chuc
+often,thuong xuyen
+oil,dau
+open,mo
+opening,le khai mac
+operate,van hanh
+operating,van hanh,dieu hanh
+operation,hoat dong,cuoc phau thuat
+operator,nguoi dieu hanh
+opinion,y kien
+opponent,doi thu
+opportunity,co hoi,thoi co
+oppose,phan doi
+opposite,doi dien
+opposition,su phan doi,phe doi lap
+option,lua chon
+or,hoac
+orientation,dinh huong,su huong dan
+origin,nguon goc
+original,original
+originally,ban dau,luc dau
+orange,cam
+order,dat hang
+ordinary,binh thuong
+organic,thuc vat
+organization,to chuc,co quan
+organize,to chuc
+other,khac
+others,nhung nguoi khac
+otherwise,neu khong thi
+ought,nen
+our,cua chung ta
+ourselves,chung ta
+out,ra ngoai
+outside,ben ngoai
+outcome,ket qua
+oven,lo nuong
+over,qua
+overall,tong the
+overcome,vuot qua
+overlook,bo qua
+owe,no
+own,so huu
+owner,chu so huu
+piano,piano
+pick,chon
+picture,hinh anh
+pie,banh
+piece,manh
+pitch,do doc,san
+pile,chong,dong
+pilot,phi cong
+pine,cay thong
+pink,mau hong
+pipe,ong
+pass,vuot qua
+passion,dam me
+passage,doan van
+passenger,hanh khach
+past,qua khu
+pace,toc do
+pack,dong goi
+package,goi
+page,trang
+pain,dau
+painful,dau don
+paint,son
+painter,hoa si
+painting,tranh ve
+pair,cap
+palm,long ban tay,cay co
+pale,nhot nhat
+palestinian,thuoc ve Palestine
+pan,chao
+panel,bang dieu khien
+pant,tho hon hen
+paper,giay
+parent,cha me
+park,cong vien
+parking,do xe
+part,phan
+party,bua tiec
+participant,nguoi tham gia,thanh vien
+participate,tham gia,dong gop
+participation,su tham gia,su gop mat
+particular,dac biet,cu the
+particularly,dac biet,cu the
+partly,mot phan
+partner,doi tac
+partnership,hop tac,cong tac
+patch,vai va
+path,con duong
+patient,benh nhan
+pattern,mau
+pause,tam dung
+pay,tra
+payment,thanh toan
+peak,dinh
+peace,hoa binh
+peer,ban dong trang lua
+penalty,hinh phat
+people,moi nguoi
+pepper,hat tieu
+per,moi
+person,nguoi
+personal,ca nhan
+personality,tinh cach,nhan cach
+personally,ca nhan,dich than
+personnel,nhan su
+perspective,goc nhin,quan diem
+persuade,thuyet phuc
+perceive,nhan thuc
+percentage,phan tram,ty le
+perception,nhan thuc,su cam nhan
+perfect,hoan hao
+perfectly,mot cach hoan hao
+perform,thuc hien
+performance,hieu suat,buoi bieu dien
+perhaps,co the
+period,giai doan
+permission,su cho phep,su cap phep
+permit,giay phep
+permanent,thuong xuyen
+pet,vat nuoi
+physician,bac si
+physical,vat ly
+physically,ve mat the chat,the chat
+philosophy,triet hoc,hoc thuyet
+phase,pha
+phenomenon,hien tuong,su kien
+phone,dien thoai
+photo,hinh anh
+photograph,anh chup,hinh anh
+photographer,nhiep anh gia
+phrase,cum tu
+plastic,nhua
+place,noi chon
+plan,ke hoach
+plane,may bay
+planet,hanh tinh
+planning,lap ke hoach
+plant,cay trong
+plate,dia
+platform,nen tang
+play,choi
+player,nguoi choi
+plus,cong
+pleasure,han hanh
+please,lam vui long
+plenty,nhieu
+plot,cot truyen
+pose,tao dang
+position,vi tri
+positive,tich cuc
+possess,so huu
+possibility,co kha nang,su kha thi
+possible,co the
+possibly,co the
+post,bai dang
+pocket,tui
+poem,bai tho
+poet,nha tho
+poetry,tho ca
+point,diem
+pole,cot
+police,canh sat
+policy,chinh sach
+politician,chinh tri gia,nguoi lam chinh tri
+political,thuoc ve chinh tri
+politically,thuoc ve chinh tri,lien quan den chinh tri
+politics,chinh tri
+poll,khao sat
+pollution,o nhiem
+pool,ho boi
+poor,ngheo
+pop,dap,phat ra
+popular,pho bien
+population,dan so,quan the
+porch,hien nha
+port,cang
+portion,phan
+portray,mo ta
+portrait,chan dung
+pot,noi
+potato,khoai tay
+potential,tiem nang
+potentially,co the,tiem nang
+pound,can
+pour,rot
+poverty,ngheo doi
+powder,bot
+power,quyen luc
+powerful,manh me
+prison,nha tu
+prisoner,tu nhan
+price,gia
+pride,niem tu hao
+primary,thu nhat
+primarily,chu yeu
+prime,quan trong,chu yeu
+priest,linh muc
+privacy,quyen rieng tu
+private,tu nhan
+principal,hieu truong
+principle,nguyen tac
+print,in an
+prior,truoc
+priority,uu tien
+practical,thuc te
+practice,luyen tap
+pray,cau nguyen
+prayer,cau nguyen
+press,an
+pressure,ap luc
+prescription,toa thuoc,don thuoc
+presence,su hien dien
+present,hien tai
+presentation,bai thuyet trinh,buoi trinh bay
+preserve,bao ton
+president,tong thong
+presidential,thuoc ve tong thong
+precisely,mot cach chinh xac
+pretend,gia vo
+pretty,xinh dep
+predict,du doan
+prevent,ngan chan
+previous,truoc
+previously,truoc day,truoc do
+prefer,ua thich
+preference,so thich,su uu tien
+pregnancy,mang thai
+pregnant,dang mang thai
+preparation,su chuan bi,su sap xep
+prepare,chuan bi
+project,du an
+probably,co the
+problem,van de
+procedure,quy trinh
+proceed,tien hanh
+process,qua trinh
+produce,san xuat
+producer,nha san xuat
+product,san pham
+production,su san xuat,su che tao
+profession,nghe nghiep,nganh nghe
+professional,chuyen nghiep,cong tac
+professor,giao su
+profit,loi nhuan
+profile,ho so
+proof,bang chung
+program,chuong trinh
+progress,tien bo
+prominent,noi bat
+promise,loi hua
+promote,thuc day
+prompt,nhanh chong
+proper,thich hop
+property,tai san
+properly,mot cach dung dan
+proportion,ty le,muc do
+proposal,de xuat
+proposed,duoc de xuat
+prosecutor,cong to vien,nguoi buoc toi
+prospect,trien vong
+protection,su bao ve,bao ve
+proud,tu hao
+prove,chung minh
+provider,nha cung cap
+province,tinh
+provision,su cung cap
+psychology,tam ly,hoc thuyet tam ly
+psychologist,nha tam ly hoc
+psychological,thuoc ve tam ly
+pursue,theo duoi
+purchase,mua
+pure,thuan khiet
+publisher,nha xuat ban
+public,cong cong
+publication,su xuat ban,an pham
+publicly,cong khai
+put,dat,dua
+pull,keo
+punishment,hinh phat,su trung phat
+push,day
+quick,nhanh
+quiet,im lang
+quit,bo cuoc
+quite,kha
+quarterback,tien ve chinh,tien ve trong bong bau duc
+question,cau hoi
+quote,trich dan
+rise,tang len
+risk,rui ro
+rice,gao
+rich,giau co
+rid,giai thoat,loai bo
+ride,cuoi
+river,song
+ring,nhan
+rifle,sung truong
+right,dung
+race,cuoc dua
+racial,chung toc
+rate,ty le
+rather,tha
+rating,xep hang
+ratio,ti le
+radio,radio
+rail,duong ray
+rain,mua
+raise,tang len
+range,khoang cach
+rank,xep hang
+rapid,nhanh chong
+rare,hiem
+rarely,hiem khi
+raw,tho,nguyen chat
+rural,nong thon
+rub,mai,rua
+rule,quy tac
+run,chay,dieu hanh
+running,dang chay
+rush,voi va
+reinforce,cung co
+reason,ly do
+reasonable,hop ly,co ly
+reach,dat duoc
+react,phan ung
+reaction,phan ung
+real,thuc te
+really,thuc su
+read,doc
+reader,nguoi doc
+ready,san sang
+recipe,cong thuc
+recall,goi lai
+recent,gan day
+recently,gan day
+recognition,nhan dang,su cong nhan
+recognize,nhan ra
+recommend,de xuat
+recommendation,khuyen nghi,loi gioi thieu
+record,ho so
+recording,ghi am
+recovery,su phuc hoi
+rely,phu thuoc
+relief,su giam nhe
+religion,ton giao
+religious,ton giao
+relate,lien quan
+relation,moi quan he
+relationship,moi quan he,su lien ket
+relative,ho hang
+relatively,tuong doi,so voi
+relax,thu gian
+relevant,lien quan
+red,mau do
+reduce,giam bot
+reduction,su giam bot
+refuse,tu choi
+refer,tham khao
+reference,tham khao
+reflection,su phan chieu,su suy ngam
+reform,cai cach
+regime,che do
+region,khu vuc
+regional,khu vuc
+register,dang ky
+regard,su quan tam
+regarding,ve
+regardless,bat chap,mac du
+regularly,deu dan
+regulate,quy dinh
+regulation,quy dinh,su dieu chinh
+reject,tu choi
+remind,nhac nho
+remain,con lai
+remaining,con lai
+remarkable,dang chu y,an tuong
+remember,nho
+remote,tu xa
+remove,loai bo
+republican,Dang Cong hoa,thuoc ve Dang Cong hoa
+reputation,uy tin,danh tieng
+repeat,lap lai
+repeatedly,lap di lap lai,mot cach lien tuc
+reply,phan hoi
+report,bao cao
+reporter,phong vien
+represent,dai dien
+requirement,yeu cau,dieu kien can
+result,ket qua
+research,nghien cuu
+researcher,nha nghien cuu,nguoi nghien cuu
+resemble,giong
+reservation,dat cho,dat truoc
+resident,cu dan
+resist,chong lai
+resistance,su khang cu,su chong lai
+resolution,nghi quyet,su quyet tam
+resolve,giai quyet
+resort,khu nghi duong
+resource,tai nguyen
+respect,ton trong
+respond,dap lai
+respondent,nguoi tra loi,nguoi tham gia khao sat
+response,phan hoi
+responsible,co trach nhiem,dang tin cay
+rest,nghi ngoi
+restaurant,nha hang,quan an
+restore,khoi phuc
+restriction,han che,su gioi han
+retire,nghi huu
+retirement,su nghi huu,su ve huu
+retain,giu lai
+return,tro lai
+reveal,tiet lo
+revenue,doanh thu
+review,danh gia
+revolution,cach mang,su thay doi lon
+rhythm,nhip dieu
+road,con duong
+rose,hoa hong
+rock,da
+role,vai tro
+roll,cuon
+rough,go ghe
+roughly,uoc chung
+round,tron
+route,duong di
+routine,thoi quen
+romantic,lang man
+roof,mai nha
+room,phong
+root,re
+rope,day thung
+row,hang,dong
+sister,chi/em gai
+sick,om
+silence,yen lang
+silent,im lang
+silver,bac
+side,ben
+sigh,tho dai
+sight,thi giac
+sign,bieu tuong
+significance,tam quan trong,y nghia
+significant,quan trong,dang chu y
+significantly,dang ke,mot cach quan trong
+signal,tin hieu
+similar,tuong tu
+similarly,tuong tu
+simple,don gian
+simply,don gian
+sin,toi loi
+sink,chim
+since,ke tu khi
+sing,hat
+singer,ca si
+single,don
+sir,ngai
+sit,ngoi
+situation,tinh huong
+site,dia diem
+six,sau
+size,kich co
+sake,ly do
+sacred,thieng lieng
+satellite,ve tinh
+satisfy,hai long
+satisfaction,su hai long,su thoa man
+salad,salad
+salary,luong
+sale,giam gia
+sales,ban hang
+salt,muoi
+sad,buon
+sanction,lenh trung phat
+sand,cat
+safe,an toan
+safety,an toan
+same,giong nhau
+sample,mau
+sauce,xot
+save,luu
+saving,tiet kiem
+say,noi
+sky,bau troi
+ski,truot tuyet
+skill,ky nang
+skin,da
+science,khoa hoc
+scientific,khoa hoc,thuoc ve khoa hoc
+scientist,nha khoa hoc
+scale,ti le
+scandal,scandal
+scared,so hai
+scenario,kich ban
+scene,canh
+schedule,lich trinh
+scheme,ke hoach
+scholar,hoc gia
+scholarship,hoc bong,giai thuong hoc thuat
+school,truong hoc
+scope,pham vi
+score,diem so
+scream,het len
+screen,man hinh
+script,kich ban
+smile,cuoi
+small,nho
+smart,thong minh
+smell,mui
+smoke,khoi
+smooth,muot ma
+seize,nam bat
+sea,bien
+search,tim kiem
+season,mua
+seat,cho ngoi
+second,thu hai
+secret,bi mat
+secretary,thu ky
+section,mang
+sector,linh vuc
+secure,an toan
+security,an ninh
+see,xem,nhin
+seed,hat giong
+seek,tim kiem
+seem,co ve
+segment,phan doan
+select,chon lua
+selection,su chon lua
+self,ban than
+sell,ban
+senior,cao cap
+senate,Thuong vien
+senator,thuong nghi si
+sentence,cau
+send,gui
+sense,cam giac
+sensitive,nhay cam
+separate,rieng biet
+sequence,chuoi
+series,day
+serious,nghiem trong
+seriously,nghiem tuc
+serve,phuc vu
+service,dich vu
+session,buoi hop
+set,bo,dat
+setting,boi canh
+settle,giai quyet
+settlement,cuoc dinh cu,thoa thuan
+seven,bay
+several,mot vai
+severe,nghiem trong
+sex,gioi tinh
+sexual,tinh duc
+shine,toa sang
+shift,ca lam viec,chuyen dong
+ship,tau
+shirt,ao so mi
+shit,phan
+shall,se
+shade,bong ram
+shadow,bong ram
+shake,lac
+shape,hinh dang
+share,chia se
+sharp,sac ben
+shut,dong
+she,co ay
+sheet,tam vai
+shelf,ke
+shelter,nha tam
+shell,vo
+shock,soc
+shout,het
+should,nen
+shoulder,vai
+shoe,giay
+show,hien thi
+shower,voi sen
+shoot,shoot
+shooting,su ban
+shop,cua hang
+shopping,mua sam
+shore,bo bien
+short,ngan
+shortly,som
+shot,dan ban
+shrug,nhun vai
+slice,lat
+slide,truot
+slight,nho
+slightly,mot chut
+slip,truot
+slave,no le
+sleep,ngu
+slow,cham
+slowly,cham rai
+snap,dap vo
+snow,tuyet
+so,vi vay
+so-called,duoc goi la
+some,mot vai
+somebody,ai do
+somehow,bang cach nao do
+somewhat,kha la
+somewhere,noi nao do
+someone,ai do
+something,mot cai gi do
+sometimes,doi khi
+soccer,bong da
+social,xa hoi
+society,xa hoi
+son,con trai
+song,bai hat
+soft,mem
+software,phan mem
+soil,dat
+solid,dac,ran
+solar,thuoc ve mat troi
+soldier,linh
+solution,giai phap
+solve,giai quyet
+soon,som
+sophisticated,tinh vi,phuc tap
+sorry,xin loi
+sort,sap xep
+south,phia nam
+southern,thuoc ve phia nam
+soul,linh hon
+sound,am thanh
+soup,sup
+source,nguon goc
+soviet,Lien Xo
+spin,xoay
+spirit,tinh than
+spiritual,thuoc ve tinh than
+space,khoang khong
+speak,noi
+speaker,dien gia
+special,dac biet
+specialist,chuyen gia,nguoi co chuyen mon
+species,loai
+specific,cu the
+specifically,cu the,mot cach ro rang
+speech,bai phat bieu
+speed,toc do
+spend,chi tieu
+spending,chi tieu
+split,chia
+spokesman,nguoi phat ngon
+sport,the thao
+spot,vi tri
+spread,phat tan
+spring,mua xuan
+square,vuong
+squeeze,nan,ep
+style,phong cach
+stick,cay gay
+still,van
+stir,khuay
+star,ngoi sao
+stare,nhin cham cham
+start,bat dau
+stability,su on dinh
+stable,on dinh
+stand,dung
+standing,dung
+standard,tieu chuan
+staff,nhan vien
+stage,san khau
+stair,cau thang
+stake,co phan
+status,tinh trang
+state,tieu bang
+statement,tuyen bo
+station,ga,tram
+statistics,thong ke,du lieu so hoc
+stay,o lai
+student,sinh vien
+study,hoc tap
+studio,phong thu
+stuff,do dac
+stupid,ngu ngoc
+steal,an cap
+steady,on dinh
+steel,thep
+step,buoc
+stock,co phieu
+stomach,da day
+stone,da
+stop,dung
+story,cau chuyen
+storage,kho luu tru
+storm,con bao
+store,cua hang
+strike,dinh cong
+string,day
+strip,thanh
+straight,thang
+strange,la
+stranger,nguoi la
+strategy,chien luoc
+strategic,chien luoc
+structure,cau truc
+struggle,dau tranh
+stream,dong suoi
+street,duong pho
+strength,suc manh
+strengthen,cung co,lam manh me them
+stress,cang thang
+stretch,keo dai
+stroke,cu don
+strong,manh me
+strongly,manh me
+subject,mon hoc
+submit,gui di
+subsequent,sau do,theo sau
+substance,chat lieu
+substantial,dang ke,lon lao
+succeed,thanh cong
+success,thanh cong
+successful,thanh cong,dat duoc muc tieu
+successfully,mot cach thanh cong,thanh cong
+such,nhu vay
+sudden,bat ngo
+suddenly,dot ngot
+summer,mua he
+summit,dinh cao
+sue,kien,to tung
+suffer,chiu dung
+sufficient,du,day du
+sugar,duong
+suggest,de nghi
+suggestion,de xuat,y kien
+suicide,tu sat
+suit,bo do
+sun,mat troi,nang
+super,tuyet voi
+supply,cung cap
+support,ho tro
+supporter,nguoi ung ho
+suppose,gia su
+supposed,duoc cho la
+sure,chac chan
+surely,chac chan
+survey,khao sat
+survival,su song sot
+survive,song sot
+survivor,nguoi song sot
+surface,be mat
+surgery,phau thuat
+surprise,su ngac nhien
+surprised,ngac nhien
+surprising,dang ngac nhien,kinh ngac
+surprisingly,mot cach ngac nhien
+surround,xung quanh
+suspect,nghi ngo
+sustain,duy tri
+swear,the
+sweep,quet
+sweet,ngot ngao
+swim,boi
+swing,du
+switch,cong tac
+symbol,bieu tuong
+symptom,trieu chung
+system,he thong
+tissue,mo
+ticket,ve
+time,thoi gian
+tie,that,ca vat
+tight,chat
+tiny,nho be
+tip,meo
+tire,lop
+tired,met moi
+title,tua de
+target,muc tieu
+table,ban
+tablespoon,muong canh,don vi do the tich
+take,lay
+tactic,chien thuat
+tail,duoi
+tale,cau chuyen
+talent,tai nang
+talk,noi chuyen
+tall,cao
+tank,be chua
+tap,voi,dap
+tape,bang
+task,nhiem vu
+taste,vi
+tax,thue
+taxpayer,nguoi dong thue
+turn,quay
+tube,ong
+tunnel,duong ham
+tea,tra
+teaspoon,muong ca phe
+teach,day
+teacher,giao vien
+teaching,giang day
+team,doi
+tear,xe
+test,kiem tra
+testing,kiem tra
+testify,dieu tra
+testimony,loi chung
+technical,ky thuat
+technique,ky thuat
+technology,cong nghe,ky thuat
+temperature,nhiet do,do nong
+temporary,tam thoi
+teen,thanh nien
+teenager,thanh thieu nien
+telephone,dien thoai
+telescope,kinh vien vong
+television,ti vi,thiet bi truyen hinh
+tell,ke
+ten,muoi
+tent,leu
+tend,co xu huong
+tendency,xu huong
+tennis,quan vot
+tension,cang thang
+term,hoc ky
+terms,dieu khoan
+terrible,kinh khung
+territory,lanh tho
+terror,khung bo
+terrorism,chu nghia khung bo
+terrorist,ke khung bo
+text,van ban
+this,cai nay
+thick,day
+thin,mong
+thing,do vat
+think,suy nghi
+thinking,suy nghi
+thirty,ba muoi
+third,thu ba
+than,hon
+thank,cam on
+thanks,cam on
+that,do
+thus,do do
+they,ho
+their,cua ho
+theater,rap chieu bong
+them,chung no
+theme,chu de
+themselves,bang chinh ho
+then,sau do
+theory,ly thuyet
+therapy,dieu tri
+there,o do
+therefore,do do
+these,cai nay
+those,nhung cai do
+though,mac du
+thought,nghi
+thousand,nghin
+threat,de doa
+threaten,de doa
+three,ba
+throat,hong
+through,qua
+throughout,xuyen suot,trong suot
+throw,nem
+twelve,muoi hai
+twenty,hai muoi
+twice,hai lan
+twin,sinh doi
+two,hai
+to,toi,den,de
+tobacco,thuoc la
+today,hom nay
+tomato,ca chua
+tomorrow,ngay mai
+toe,ngon chan
+too,qua
+tooth,rang
+tool,dung cu
+together,cung nhau
+tone,am dieu
+tongue,luoi
+tonight,toi nay
+top,dinh,tren,cao,dau
+topic,chu de
+toss,nem
+total,tong cong
+totally,hoan toan
+touch,cham
+tough,cung ran
+tour,du lich
+tourist,du khach
+tournament,giai dau,cuoc thi
+toward,huong ve
+towards,huong ve
+tower,thap
+town,thi tran
+toy,do choi
+try,thu,co gang
+trial,thu nghiem
+tribe,bo lac
+trick,manh khoe
+trip,chuyen di
+trace,dau vet
+track,duong dua
+trade,thuong mai
+tradition,truyen thong
+traditional,truyen thong,co dien
+travel,du lich
+transfer,chuyen nhuong
+transform,bien doi
+transformation,su bien doi,su chuyen hoa
+transition,su chuyen tiep,su thay doi
+translate,bien dich
+transportation,van chuyen,giao thong
+traffic,giao thong
+tragedy,tham kich
+trail,dau vet
+train,tau,huan luyen
+training,dao tao
+trust,tin tuong
+truck,xe tai
+true,dung
+truth,su that
+truly,thuc su
+treat,doi xu
+treatment,dieu tri
+treaty,hiep uoc
+tremendous,to lon,an tuong
+tree,cay
+trend,xu huong
+troop,doi quan
+trouble,rac roi
+type,loai
+typical,dac trung
+typically,thuong thi
+ugly,xau
+utility,tinh huu ich
+ultimate,cao nhat
+ultimately,cuoi cung,nhung cuoi cung
+university,dai hoc,co so giao duc cap cao
+universal,pho bien
+universe,vu tru
+uniform,dong phuc
+union,lien minh
+unique,doc dao
+unit,don vi
+united,lien hop
+unable,khong the
+unknown,khong biet
+uncle,chu,bac
+until,cho den khi
+unless,neu khong
+unlike,khong giong
+unlikely,kho xay ra
+under,duoi
+undergo,trai qua
+understand,hieu,thau hieu
+understanding,su hieu biet,su thau hieu
+unfortunately,that khong may
+unusual,la thuong
+up,len,tren
+upon,tren
+upper,tren
+urban,do thi
+urge,keu goi
+usual,binh thuong
+usually,thuong xuyen
+use,su dung,tac dung
+used,su dung
+useful,kho su dung
+user,nguoi su dung
+via,qua
+visible,co the nhin thay
+vision,tam nhin
+visit,tham
+visitor,du khach
+visual,thi giac
+victim,nan nhan
+victory,chien thang
+village,lang
+video,video
+view,quan sat
+viewer,khan gia
+violate,xam pham
+violation,su vi pham
+violence,su bao luc
+violent,bao luc
+virtually,hau nhu
+virtue,duc hanh
+virus,virus
+vital,quan trong
+vast,rong lon
+vacation,ky nghi
+valley,thung lung
+valuable,quy gia
+value,gia tri
+vary,thay doi
+variable,bien so
+variation,su bien doi
+variety,loai,su da dang
+various,da dang
+vulnerable,de bi ton thuong,co the bi anh huong
+vegetable,rau
+vehicle,phuong tien
+venture,du an mao hiem
+version,phien ban
+versus,so voi
+very,rat
+vessel,tau
+veteran,cuu chien binh
+voice,tieng noi
+voter,cu tri
+volume,the tich
+volunteer,tinh nguyen vien
+with,voi
+withdraw,rut lui
+within,trong pham vi
+without,khong co
+witness,nhan chung
+will,se
+willing,san long
+wild,dai
+wide,rong
+widely,rong rai
+widespread,rong rai,pho bien
+win,thang
+winter,mua dong
+wind,gio
+window,cua so
+wine,ruou vang
+wing,canh
+winner,nguoi chien thang
+wife,vo
+wipe,lau
+wire,day dien
+wisdom,tri thuc
+wise,khon ngoan
+wish,uoc
+wage,luong
+wait,cho
+wash,rua
+waste,rac
+wake,tinh day
+watch,xem
+water,nuoc
+walk,di bo
+wall,tuong
+want,muon
+wander,lang phi
+war,chien tranh
+warm,am
+warn,canh bao
+warning,canh bao
+wave,song
+way,cach,duong
+we,chung ta
+weigh,can
+weight,trong luong
+weak,yeu
+weather,thoi tiet
+wealth,su giau co
+wealthy,giau co
+weapon,vu khi
+wear,mac
+wet,uot
+welcome,chao don
+welfare,phuc loi
+well,khoe
+wedding,cuoi hoi
+week,tuan
+weekend,cuoi tuan
+weekly,hang tuan
+west,tay
+western,tay
+why,tai sao
+whisper,thi tham
+which,nao
+white,mau trang
+while,khi
+what,cai gi
+whatever,bat cu thu gi
+wheel,banh xe
+when,khi nao
+whenever,khi nao
+where,o dau
+whereas,trong khi do
+whether,du co hay khong
+who,ai
+whole,toan bo
+whom,ai
+whose,cua ai
+would,se
+wound,vet thuong
+woman,phu nu
+wonder,ngac nhien
+wonderful,tuyet voi
+wood,go
+wooden,bang go
+worth,gia tri
+world,the gioi
+word,tu
+work,lam viec
+worker,cong nhan
+working,dang lam viec
+works,cong trinh
+workshop,phan xuong
+worry,lo lang
+worried,lo lang
+write,viet
+writer,nha van
+writing,viet
+wrap,goi
+wrong,sai
+yield,sinh ra
+yard,san
+yeah,vang
+year,nam
+yet,nhung,chua
+yell,la het
+yellow,mau vang
+yes,co
+yesterday,hom qua
+you,ban
+young,tre
+your,cua ban
+yours,cua ban
+yourself,ban than ban
+youth,thanh nien
+zone,khu vuc

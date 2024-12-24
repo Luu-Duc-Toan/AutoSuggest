@@ -1,0 +1,7 @@
+﻿  Main.cpp
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Z-function\Main.cpp(24,105): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Z-function\Main.cpp(24,105): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\Z-function\Main.cpp(171,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Z-function.vcxproj -> E:\Code\Vs\repos\MyStupidCode\AutoSuggest\AutoSuggest\x64\Debug\Z-function.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

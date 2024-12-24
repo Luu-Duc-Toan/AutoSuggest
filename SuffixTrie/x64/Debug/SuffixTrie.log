@@ -1,0 +1,39 @@
+﻿  Dictionary.cpp
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(6,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(23,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(24,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(69,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(70,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(103,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(130,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(154,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(163,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(213,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Dictionary.cpp(219,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Main.cpp(24,105): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Main.cpp(24,105): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\Main.cpp(171,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  UI.cpp
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(62,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(63,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(69,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(69,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(73,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(73,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(76,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(76,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(86,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(86,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(90,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(90,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(130,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(134,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(135,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(138,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(140,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Code\Vs\repos\MyStupidCode\AutoSuggest\SuffixTrie\UI.cpp(141,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SuffixTrie.vcxproj -> E:\Code\Vs\repos\MyStupidCode\AutoSuggest\AutoSuggest\x64\Debug\SuffixTrie.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
